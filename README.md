@@ -21,7 +21,7 @@
   <img align="center" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img align="center" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
   <img align="center" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
-  <img align="center" height="60" width="70" src="https://cdn.thexcodes.com/imgs/reactJS.png" />
+  <img align="center" height="60" width="auto" src="https://cdn.thexcodes.com/imgs/reactJS.png" />
 </div>
 
 ##
