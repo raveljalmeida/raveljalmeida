@@ -4,7 +4,7 @@
 
 🔭 Atualmente buscando uma oportunidade de atuar como desenvolvedor (Front-end, Back-end ou Full-Stack\
 📕 Cursando Ciência da Computação (UNIFEI)\
-🌱 Me aperfeiçoando no desenvolvimento Full-Stack utilizando React e NodeJs\
+🌱 Me aperfeiçoando no desenvolvimento Full-Stack utilizando React e NodeJs (Express)\
 💬 Cristão, músico, palmeirense e recém entusiasta da NBA
 
 <div>
