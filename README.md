@@ -2,7 +2,7 @@
 
 ### 📖 Sobre mim
 
-🔭 Atualmente trabalhando como estagiário na setor de help desk na Diretoria de Tecnologia da Informação da UNIFEI\
+🔭 Atualmente buscando uma oportunidade de atuar como desenvolvedor (Front-end, Back-end ou Full-Stack\
 📕 Cursando Ciência da Computação (UNIFEI)\
 🌱 Estudando NodeJs\
 💬 Cristão, músico, palmeirense e recém entusiasta da NBA
@@ -21,6 +21,7 @@
   <img align="center" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img align="center" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
   <img align="center" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
+  <img align="center" height="60" width="70" src="https://cdn.thexcodes.com/imgs/reactJS.png" />
 </div>
 
 ##
